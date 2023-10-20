@@ -1,0 +1,2 @@
+com/thinking/machines/nframework/client/main/Main.java
+ com.thinking.machines.nframework.client.main.Main

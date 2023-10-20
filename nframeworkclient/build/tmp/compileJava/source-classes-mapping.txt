@@ -1,0 +1,2 @@
+com/thinking/machines/network/client/NFrameworkClient.java
+ com.thinking.machines.network.client.NFrameworkClient

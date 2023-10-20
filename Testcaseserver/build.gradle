@@ -1,0 +1,4 @@
+apply plugin: 'java'
+dependencies {
+compile files('../nframeworkcommon/build/libs/nframeworkcommon.jar','../nframeworkserver/build/libs/nframeworkserver.jar')
+}
