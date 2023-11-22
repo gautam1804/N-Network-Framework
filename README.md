@@ -51,7 +51,7 @@ To compile files:
 nFramework\client>gradle build
 ```
 **For testing the framework:**
-I have created a testCase program inside the folder bankingTestcaseNframework.
+I have created two testCase programs i.e. Bank.java and BankUI.java inside the folder bankingTestcaseNframework.
 
 1.server compilation and starting the server:
 ```bash
