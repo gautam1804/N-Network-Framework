@@ -50,7 +50,7 @@ To compile files:
 ```bash
 nFramework\client>gradle build
 ```
-**For testing the framework:*
+**For testing the framework:**
 I have created a testCase program inside the folder bankingTestcaseNframework.
 
 1.server compilation and starting the server:
