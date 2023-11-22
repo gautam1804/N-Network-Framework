@@ -1,4 +1,0 @@
-com/thinking/machines/nframework/server/main/Calculator.java
- com.thinking.machines.nframework.server.main.Calculator
-com/thinking/machines/nframework/server/main/Main.java
- com.thinking.machines.nframework.server.main.Main
